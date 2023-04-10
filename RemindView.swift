@@ -13,7 +13,7 @@ struct RemindView: View {
     var body: some View {
         VStack {
             Spacer()
-            DropdownView()
+            //DropdownView()
             Spacer()
             Button(action: {}) {
                 Text("Next").font(.system(size: 24, weight: .medium))
